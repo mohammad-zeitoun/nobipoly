@@ -19,7 +19,7 @@ babipoly
 
 BabiPoly is an integrated web-based system built to support core activities at Babi Polytechnic, including:
 
-- 📚 Course registration and management
+
 - 📝 Student grades and academic records
 - 🗓️ Timetable and calendar scheduling
 - 📢 Announcements and communication
